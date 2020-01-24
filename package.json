@@ -1,0 +1,15 @@
+{
+  "name": "heroku-getting-started-12345",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/heroku-getting-started-12345.git"
+  },
+  "author": "Flávio Micheletti",
+  "license": "ISC"
+}
