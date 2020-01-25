@@ -1,14 +1,14 @@
 {
-  "name": "expressjs-hello-world",
+  "name": "heroku-getting-started",
   "version": "1.0.0",
-  "description": "hellowolrd in expressjs",
-  "main": "index.js",
+  "description": "hellowolrd in heroku with nodejs",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flaviomicheletti/expressjs-hello-world.git"
+    "url": "git+https://github.com/flaviomicheletti/heroku-nodejs-hello-world.git"
   },
   "keywords": [
     "express"
@@ -16,9 +16,9 @@
   "author": "Flavio Micheletti",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/flaviomicheletti/expressjs-hello-world/issues"
+    "url": "https://github.com/flaviomicheletti/heroku-nodejs-hello-world/issues"
   },
-  "homepage": "https://github.com/flaviomicheletti/expressjs-hello-world#readme",
+  "homepage": "https://github.com/flaviomicheletti/heroku-nodejs-hello-world#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
